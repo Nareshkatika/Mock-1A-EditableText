@@ -1,0 +1,29 @@
+.BgImgEl {
+  background-color: #f5d0fe;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.whitePageEl {
+  background-color: white;
+  height: 200px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.headingEl1 {
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+
+.rowArr1 {
+  display: flex;
+}
